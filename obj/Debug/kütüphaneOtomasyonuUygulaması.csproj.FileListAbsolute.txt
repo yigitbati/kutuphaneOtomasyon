@@ -1,0 +1,40 @@
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\bin\Debug\kütüphaneOtomasyonuUygulaması.exe.config
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\bin\Debug\kütüphaneOtomasyonuUygulaması.exe
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\bin\Debug\kütüphaneOtomasyonuUygulaması.pdb
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.Properties.Resources.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.csproj.GenerateResource.cache
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.exe
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.pdb
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.formAnaMenu.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.formGiris.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.formKitapYonetim.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.calisanYonetimi.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.iadeIslemleri.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.oduncIslemleri.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.Raporlama.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.uyeYonetim.resources
+C:\Users\A\Desktop\C# Projeleri\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.oduncIslemleri2.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\bin\Debug\kütüphaneOtomasyonuUygulaması.exe.config
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\bin\Debug\kütüphaneOtomasyonuUygulaması.exe.manifest
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\bin\Debug\kütüphaneOtomasyonuUygulaması.application
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\bin\Debug\kütüphaneOtomasyonuUygulaması.exe
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\bin\Debug\kütüphaneOtomasyonuUygulaması.pdb
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.calisanYonetimi.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.formGiris.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.formAnaMenu.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.iadeIslemleri.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.formKitapYonetim.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.oduncIslemleri.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.oduncIslemleri2.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.Properties.Resources.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.Raporlama.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.uyeYonetim.resources
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.csproj.GenerateResource.cache
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.exe.manifest
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.application
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.exe
+C:\Users\A\Desktop\kütüphaneOtomasyonuUygulaması\obj\Debug\kütüphaneOtomasyonuUygulaması.pdb
